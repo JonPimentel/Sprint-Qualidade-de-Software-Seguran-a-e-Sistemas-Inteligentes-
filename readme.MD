@@ -135,7 +135,7 @@ Notebook principal: `ML/notebook.ipynb`
 
 Notebook Colab (referencia):
 
-https://colab.research.google.com/drive/16TfnY7MqW_mlUc1ukQv54tabZlyLjRqn
+https://colab.research.google.com/drive/1f9Ra0Ng7pPCXcpvyC6vna-tPtpvMBNBW
 
 Etapas cobertas no notebook:
 
@@ -167,6 +167,3 @@ Checklist sugerido:
 - [ ] link do Colab valido
 - [ ] link do video incluido abaixo
 
-Video de apresentacao (ate 3 min):
-
-- [`VIDEO_LINK_AQUI`](https://drive.google.com/file/d/1uPiDQKOfTpemPAZycV000xeqXhEJMVC1/view?usp=sharing)
